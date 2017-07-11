@@ -1,8 +1,9 @@
 ---
 layout: default
+published: true
 ---
 
-## About Me
+## About Kuan-Yu
 
 <img class="profile-picture" src="sherlock.jpg">
 
