@@ -3,44 +3,31 @@ layout: default
 published: true
 ---
 
-## About Kuan-Yu
+<img class="profile-picture" src="/pictures/profilePic.png">
 
-<img class="profile-picture" src="sherlock.jpg">
-
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+>**_2012-Dec&#39;17_**  
+>**Ph.D.**, Energy, Environmental &amp; Chemical Engineering                     
+>Washington University in Saint Louis, U.S.A.
+>
+>**_2016_**      
+>**M.S.**, Energy, Environmental &amp; Chemical Engineering                
+>Washington University in Saint Louis, U.S.A. 
+>
+>**_2011_**  
+>**B.S.**, Chemical Engineering                                                               
+>National Taiwan University, Taipei, Taiwan
 
 ---
 
-Here is a blockquote
+One Brookings Drive, Campus Box 1180, Saint Louis, MO 63130  
+Mobile: +1 (314) 807-5644; E-mail: [shen.k@wustl.edu](mailto:shen.k@wustl.edu)
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+---
+## Highlights
+- Chemical engineer and material scientist specialized in spray pyrolysis aerosol synthesis of energy storage materials at various production scales
+- Selected for McDonnell International Scholars Academy and recipient of Taiwan Ministry of Education Fellowship
+- Diverse background in chemical engineering, inorganic and organic chemistry, process engineering, electrochemisty, scale up, combustion system, and industrial/academic collaborations
+- Strong in physical and chemical material characterization techniques and electrochemistry knowledge
+- Active member in a team based environment while capable of performing research independently
+- Experience in industrial/academic collaborations and scale-up processes
+- Overviewed environmental health and safety training and hazardous material management

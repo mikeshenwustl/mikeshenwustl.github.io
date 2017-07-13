@@ -1,8 +1,17 @@
-- name: "Contact"
-  link: "contact"
+- name: "References"
+  link: "references"
 
-- name: "Resume"
-  link: "resume.pdf"
+- name: "Awards & Professional Activities"
+  link: "award"
+
+- name: "Publication & Skills"
+  link: "publication"
+
+- name: "Research Experiences"
+  link: "research"
 
 - name: "About"
+  link: "about"
+
+- name: "Home"
   link: "/"
