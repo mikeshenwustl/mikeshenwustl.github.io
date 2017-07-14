@@ -59,7 +59,7 @@ Developed complementary Electrochromic Device (ECD) based on carbon nanotubes an
 
 ---
 
-##**SKILLS**
+## **SKILLS**
 
 - Chemical engineering: mass/energy balances, process design and optimization
 - Spray pyrolysis and aerosol reactor design
