@@ -37,12 +37,12 @@ Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur b
 >## 2017
 **Chemical Engineer Intern,** Monsanto Company (Aerotek)                       
 
-- Assisted process innovation and optimization of glyphosate production
+- Assisted process innovation and optimization of glyphosate production technology
 - Performed mass and energy balances and increased efficiency on chemical and electrochemical systems
 
 ---
 >## 2014-15
-**Ph.D. Project Engineer,** X-Tend Energy, LLC                                       
+**Process Engineer Intern,** X-Tend Energy, LLC                                       
 
 - Retrofitted a furnace reactor for producing battery materials at several 100 gram/hours scale
 - Developed models and calculations for scale up to commercial scale versus a competing technology
@@ -54,12 +54,7 @@ Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur b
 
 Developed complementary Electrochromic Device (ECD) based on carbon nanotubes and conducting polymers (PEDOT and PANI)
 
-- Increased coloration efficiency from 836 to 285 cm<sup>2</sup>/C at a similar transmittance change
+- Increased coloration efficiency from 285 to 836 cm<sup>2</sup>/C at a similar transmittance change
 - Optimized PEDOT:PSS/P3HT composite electrochromic thin film
 
----
->## 2008
-**Project Engineer,** BASF, Taiwan                                                  
 
-- Developed chemical/physical experiments from daily products and examples for educational purpose
-- BASF Kids&#39; Summer Lab Chief Coordinator
