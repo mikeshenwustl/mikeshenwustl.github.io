@@ -8,28 +8,28 @@ published: true
 **Ph.D. Thesis:**&quot;Low temperature flame spray pyrolysis for the synthesis of nanostructured electrochemical materials&quot;  
 **Advisor:** Dr. Richard L. Axelbaum
 
-Designed various spray pyrolysis approach for temperature sensitive electrochemical materials (LMR-NMC, Nickel-rich NMC, and sodium manganese oxides)
+**Designed various spray pyrolysis approach for temperature sensitive electrochemical materials (LMR-NMC, Nickel-rich NMC, and sodium manganese oxides)**
 
 - Developed flow furnace, flame-assisted, direct flame, and slurry spray pyrolysis
 - Tasks ranging from process design, reactor building, process control and optimization
 - Collaborated with various industrial partners and scaled up spray pyrolysis process up to 350 gram/hours
 
-Investigated and controlled particle formation during (flame) spray pyrolysis of battery materials
+**Investigated and controlled particle formation during (flame) spray pyrolysis of battery materials**
 
 - Performed fundamental studies with piezoelectric-generated single droplet (~30 µm) and Hencken burner
 - Observed the morphological change and particle formation mechanism of spray pyrolysis
 
-Studied LMR-NMC and addressed capacity loss and voltage fades with spray pyrolysis
+**Studied LMR-NMC and addressed capacity loss and voltage fades with spray pyrolysis**
 
 - Adopted trace level doping with alkali (Na, K, Rb, Cs), alkali earth (Mg, Ca, Sr, Ba) and Al
 - Enhanced material stability, achieved higher voltage and reduced fade
 
-Synthesized tunnel structure sodium manganese cathode material for sodium-ion batteries
+**Synthesized tunnel structure sodium manganese cathode material for sodium-ion batteries**
 
 - First to apply spray pyrolysis synthesis for rod-like sodium manganese oxides
 -Optimized sodium/manganese ratio and achieved 95 % of the theoretical capacity
 
-Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur battery
+**Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur battery**
 
 -Hollow titanium oxide spheres served as protective shell to mitigate shuttling effect
 
@@ -52,7 +52,7 @@ Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur b
 **Undergraduate Researcher** , National Taiwan University                             
 **Advisor:** Dr. Kuo-Chuan Ho
 
-Developed complementary Electrochromic Device (ECD) based on carbon nanotubes and conducting polymers (PEDOT and PANI)
+**Developed complementary Electrochromic Device (ECD) based on carbon nanotubes and conducting polymers (PEDOT and PANI)**
 
 - Increased coloration efficiency from 285 to 836 cm<sup>2</sup>/C at a similar transmittance change
 - Optimized PEDOT:PSS/P3HT composite electrochromic thin film
