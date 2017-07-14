@@ -57,8 +57,9 @@ Developed complementary Electrochromic Device (ECD) based on carbon nanotubes an
 - Increased coloration efficiency from 285 to 836 cm<sup>2</sup>/C at a similar transmittance change
 - Optimized PEDOT:PSS/P3HT composite electrochromic thin film
 
+---
 
-**SKILLS**
+##**SKILLS**
 
 - Chemical engineering: mass/energy balances, process design and optimization
 - Spray pyrolysis and aerosol reactor design
