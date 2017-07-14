@@ -8,7 +8,7 @@ published: true
 >**_2012-Dec&#39;17_**  
 >**Ph.D.**, Energy, Environmental &amp; Chemical Engineering                     
 >Washington University in Saint Louis, U.S.A.
->..(GPA: 3.92/4.00)
+(GPA: 3.92/4.00)
 >
 >**_2016_**      
 >**M.S.**, Energy, Environmental &amp; Chemical Engineering                
