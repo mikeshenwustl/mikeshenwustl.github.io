@@ -61,10 +61,9 @@ Developed complementary Electrochromic Device (ECD) based on carbon nanotubes an
 
 ## **SKILLS**
 
-- Chemical engineering: mass/energy balances, process design and optimization
-- Spray pyrolysis and aerosol reactor design
-- Aerosol instrumentation skills: ELPI, APS, SMPS, OPS, nebulizers, atomizers, MOUDI impactor, two-fluid nozzles, high pressure nozzles
-- Material characterization techniques: SEM, TEM, ICP-MS, XRD, BET, Microtome, Embedding, EDS, TGA, UV-VIS, Tapped density analyzer
-- Lithium/sodium-ion battery coin cell and Electrochromic Device manufacturing
-- Electrochemical characterization: CV, coloration efficiency, charge/discharge capacity cycle test, cell rate performance, EIS
-- Spray imaging and diagnosis: PDPA, PIV, high speed imaging up to 20k FPS
+- **Chemical engineering:** mass/energy balances, process design, control, and scale-up
+- **Aerosol instrumentation skills:** Spray pyrolysis and aerosol reactor design, ELPI, APS, SMPS, OPS, nebulizers, atomizers, MOUDI impactor, two-fluid nozzles, high pressure nozzles
+- **Material characterization techniques:** SEM, TEM, ICP-MS, XRD, BET, Microtome, Embedding, EDS, TGA, UV-VIS, Tapped density analyzer
+- **Device and system manufacturing:** Lithium/sodium-ion battery coin cell and Electrochromic Device manufacturing
+- **Electrochemical characterization:** CV, coloration efficiency, coin cell capacity cycle/rate performance test, EIS
+- **Spray imaging and diagnosis:** PDPA, PIV, high speed imaging up to 20k FPS
