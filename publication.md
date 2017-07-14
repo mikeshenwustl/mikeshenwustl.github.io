@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# **[Google Scholar](https://scholar.google.com/citations?user=Yf5fImwAAAAJ&amp;hl=en)**
+### **[Google Scholar](https://scholar.google.com/citations?user=Yf5fImwAAAAJ&amp;hl=en)**
 
 - **Journal papers**
 
