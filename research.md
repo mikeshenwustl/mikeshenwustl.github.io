@@ -58,3 +58,12 @@ Developed complementary Electrochromic Device (ECD) based on carbon nanotubes an
 - Optimized PEDOT:PSS/P3HT composite electrochromic thin film
 
 
+**SKILLS**
+
+- Chemical engineering: mass/energy balances, process design and optimization
+- Spray pyrolysis and aerosol reactor design
+- Aerosol instrumentation skills: ELPI, APS, SMPS, OPS, nebulizers, atomizers, MOUDI impactor, two-fluid nozzles, high pressure nozzles
+- Material characterization techniques: SEM, TEM, ICP-MS, XRD, BET, Microtome, Embedding, EDS, TGA, UV-VIS, Tapped density analyzer
+- Lithium/sodium-ion battery coin cell and Electrochromic Device manufacturing
+- Electrochemical characterization: CV, coloration efficiency, charge/discharge capacity cycle test, cell rate performance, EIS
+- Spray imaging and diagnosis: PDPA, PIV, high speed imaging up to 20k FPS
