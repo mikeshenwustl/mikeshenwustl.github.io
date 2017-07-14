@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-**[Google Scholar](https://scholar.google.com/citations?user=Yf5fImwAAAAJ&amp;hl=en)**
+## **[Google Scholar](https://scholar.google.com/citations?user=Yf5fImwAAAAJ&amp;hl=en)**
 
 - **Journal papers**
 
@@ -26,12 +26,4 @@ published: true
 8. Li-Chi Chang, Huan-Nung Wu, Yi-Hsuan Lai, Chih-Wei Hu, **Kuan-Yu Shen** , Kuo-Chuan Ho, _A biosensor based on poly(3,4-ethylenedioxythiophene)-Pt modified screen-printed carbon electrode_, The IEEE International NanoElectronics Conference (2011 INEC), Taiwan, June 21-24,2011.
 9. Li-Chi Chang, Chih-Yu Hsu, Chih-Wei Hu, **Kuan-Yu Shen** , Kuo-Chuan Ho, _Synthesis of electrochromic coploymer based on poly(3,4-ethylenedioxythiophene) and poly(indole-6-carboxylic acid)_, The 62ndMeeting of the International Society of Electrochemistry, Japan, Sep. 11-16, 2011
 
-**SKILLS**
 
-- Chemical engineering: mass/energy balances, process design and optimization
-- Spray pyrolysis and aerosol reactor design
-- Aerosol instrumentation skills: ELPI, APS, SMPS, OPS, nebulizers, atomizers, MOUDI impactor, two-fluid nozzles, high pressure nozzles
-- Material characterization techniques: SEM, TEM, ICP-MS, XRD, BET, Microtome, Embedding, EDS, TGA, UV-VIS, Tapped density analyzer
-- Lithium/sodium-ion battery coin cell and Electrochromic Device manufacturing
-- Electrochemical characterization: CV, coloration efficiency, charge/discharge capacity cycle test, cell rate performance, EIS
-- Spray imaging and diagnosis: PDPA, PIV, high speed imaging up to 20k FPS
