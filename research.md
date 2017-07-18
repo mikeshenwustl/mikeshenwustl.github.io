@@ -27,11 +27,11 @@ published: true
 **Synthesized tunnel structure sodium manganese cathode material for sodium-ion batteries**
 
 - First to apply spray pyrolysis synthesis for rod-like sodium manganese oxides
--Optimized sodium/manganese ratio and achieved 95 % of the theoretical capacity
+- Optimized sodium/manganese ratio and achieved 95 % of the theoretical capacity
 
 **Developed unique titanium oxide spheres via spray pyrolysis for lithium-sulfur battery**
 
--Hollow titanium oxide spheres served as protective shell to mitigate shuttling effect
+- Hollow titanium oxide spheres served as protective shell to mitigate shuttling effect
 
 ---
 >## 2017
